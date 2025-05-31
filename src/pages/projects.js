@@ -52,7 +52,7 @@ return (
                         <div className="grid_content">  
                             <h2 className="grid_title">{item.name}</h2> 
                             <br/>
-                            <p className="grid_text"> Category: {item.category}</p>
+                            <p className="grid_text"> Category: {item.app.category}</p>
                             <p className="grid_text">{item.title}</p> 
                             <NavLink to={`/${item.name}`}   style={{ textDecoration: 'none' }}>                             
                                 <button className="btn grid_btn">Read More</button>                      
