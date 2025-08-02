@@ -1,5 +1,5 @@
 import Header from "./components/header/Header";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 
 import Projects from "./pages/projects";
 import Project from "./pages/project";
