@@ -9,7 +9,7 @@ function Header (){
                 
                 </div>
   <div className="social">
-    <a href="/" className="home">Home</a>
+    <a href="https://inkochetkov.github.io/app" className="home">Home</a>
     <a href="mailto:mut.e@icloud.com" className="support">Support</a>
     <a href="https://inkochetkov.github.io/privacy_policy/privacy_policy.pdf" className="policy">Privacy Policy</a>
   </div>
